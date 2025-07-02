@@ -1,4 +1,8 @@
-# <img src="./images/lcron.png" width="48" height="48" style="vertical-align: middle; display: inline-block;"> <span style="font-size: 20px; vertical-align: middle; line-height: 48px;">LCRON: Learning Cascade Cascade Ranking as One Network</span>
+<h1 style="display: flex; align-items: center;">
+    <img src="./images/lcron.png" width="48" height="48">
+    <span style="font-size: 20px; margin-left: 10px;">LCRON: Learning Cascade Ranking as One Network</span>
+</h1>
+
 [![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-green)](https://github.com/RecFlow-nips24/RecFlow-nips24/blob/main/LICENSE)
 
 ---
