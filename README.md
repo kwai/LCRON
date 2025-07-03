@@ -1,4 +1,4 @@
-# <img src="./images/lcron.png" width="2400" height="72" style="vertical-align: middle; display: inline-block;">
+# <img src="./images/lcron.png" width="2400" height="64" style="vertical-align: middle; display: inline-block;">
 
 [![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-green)](https://github.com/RecFlow-nips24/RecFlow-nips24/blob/main/LICENSE)
 
