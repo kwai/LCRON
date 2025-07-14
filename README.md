@@ -22,7 +22,7 @@ Experimental results on both public benchmarks (RecFlow) and industrial datasets
 
 ### 📁 Data Preparation
 
-To run the experiments, please download the dataset from [this link](https://rec.ustc.edu.cn/share/883adf20-7e44-11ef-90e2-9beaf2bdc778). After downloading, organize the data under the `./data/` directory according to the expected structure.
+To run the experiments, please download the dataset from [this link](https://github.com/RecFlow-ICLR/RecFlow). After downloading, organize the data under the `./data/` directory according to the expected structure.
 
 ---
 
